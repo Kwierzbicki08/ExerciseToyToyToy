@@ -1,0 +1,10 @@
+D:\ZPO\projecty\ExerciseToyToyToy\ExerciseToyToyToy\bin\Debug\ExerciseToyToyToy.exe.config
+D:\ZPO\projecty\ExerciseToyToyToy\ExerciseToyToyToy\bin\Debug\ExerciseToyToyToy.exe
+D:\ZPO\projecty\ExerciseToyToyToy\ExerciseToyToyToy\bin\Debug\ExerciseToyToyToy.pdb
+D:\ZPO\projecty\ExerciseToyToyToy\ExerciseToyToyToy\obj\Debug\ExerciseToyToyToy.csprojResolveAssemblyReference.cache
+D:\ZPO\projecty\ExerciseToyToyToy\ExerciseToyToyToy\obj\Debug\ExerciseToyToyToy.Form1.resources
+D:\ZPO\projecty\ExerciseToyToyToy\ExerciseToyToyToy\obj\Debug\ExerciseToyToyToy.Properties.Resources.resources
+D:\ZPO\projecty\ExerciseToyToyToy\ExerciseToyToyToy\obj\Debug\ExerciseToyToyToy.csproj.GenerateResource.cache
+D:\ZPO\projecty\ExerciseToyToyToy\ExerciseToyToyToy\obj\Debug\ExerciseToyToyToy.csproj.CoreCompileInputs.cache
+D:\ZPO\projecty\ExerciseToyToyToy\ExerciseToyToyToy\obj\Debug\ExerciseToyToyToy.exe
+D:\ZPO\projecty\ExerciseToyToyToy\ExerciseToyToyToy\obj\Debug\ExerciseToyToyToy.pdb
